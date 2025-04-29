@@ -46,9 +46,10 @@ A **monopolist (Firm B)** competes with a **new entrant (Firm A)** in a market s
 - **Game Theory Modeling in Economics**
 
 ## **Contributors**
--  
+- VEDPRAKASH
+-   
 
-**Contact:** [Emails Listed in Document]  
+**Contact:** {vedumeena01@gmail.com} 
 
 ## **License**
 This project is licensed under the **MIT License**.
